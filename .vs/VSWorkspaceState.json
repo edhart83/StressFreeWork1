@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "\\src",
+    "\\src\\assets",
+    "\\src\\assets\\scss",
+    "\\src\\assets\\scss\\shared",
+    "\\src\\components",
+    "\\src\\components\\partials",
+    "\\src\\views",
+    "\\src\\views\\basic-elements"
+  ],
+  "PreviewInSolutionExplorer": false
+}
